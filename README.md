@@ -19,31 +19,31 @@ $ bash denoise_folder.sh 'Input Directory' 'Output Directory'
 
 Before
 
-<img src="/Users/LungHuiWu/Dropbox/Mac/Desktop/DIP/Final/blurred_sharp/noise/78_sp.png" alt="78_poisson" style="zoom:100%;" />
+<img src="/example/78_sp.png" alt="78_sp" style="zoom:100%;" />
 
 After
 
-<img src="/Users/LungHuiWu/Dropbox/Mac/Desktop/DIP/Final/blurred_sharp/denoise/78_sp_denoise.png" alt="78_poisson" style="zoom:100%;" />
+<img src="/example/78_sp_denoise.png" alt="78_sp" style="zoom:100%;" />
 
 ##### Poisson noise
 
 Before
 
-![99_poisson](file:///Users/LungHuiWu/Dropbox/Mac/Desktop/DIP/Final/blurred_sharp/noise/99_poisson.png?lastModify=1641396166)
+<img src="/example/99_poisson.png" alt="99_poisson" style="zoom:100%;" />
 
 After
 
-![99_poisson](file:///Users/LungHuiWu/Dropbox/Mac/Desktop/DIP/Final/blurred_sharp/denoise/99_poisson_denoise.png?lastModify=1641396166)
+<img src="/example/99_poisson_denoise.png" alt="99_poisson" style="zoom:100%;" />
 
 ##### Gaussian noise
 
 Before
 
-![519_gaussian](file:///Users/LungHuiWu/Dropbox/Mac/Desktop/DIP/Final/blurred_sharp/noise/519_gaussian.png?lastModify=1641396166)
+<img src="/example/519_gaussian.png" alt="519_gaussian" style="zoom:100%;" />
 
 After
 
-![519_gaussian](file:///Users/LungHuiWu/Dropbox/Mac/Desktop/DIP/Final/blurred_sharp/denoise/519_gaussian_denoise.png?lastModify=1641396166)
+<img src="/example/519_gaussian_denoise.png" alt="519_gaussian" style="zoom:100%;" />
 
 
 
