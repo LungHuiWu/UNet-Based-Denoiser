@@ -1,7 +1,7 @@
 # Denoise Model
 
 ## Usage
-<NOTICE> The images fed to the model should have the same width & height, i.e., should be a square image.
+**NOTICE** The images fed to the model should have the same width & height, i.e., should be a square image.
 
 ### Denoise Single Image
 
